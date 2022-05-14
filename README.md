@@ -1,6 +1,6 @@
 👋 Hi, I’m @jenn-hayes
 - 👀 I’m interested in ... full-stack, cloud-native software development
-- 🌱 I’m currently learning ... React & Go, among others
+- 🌱 I’m currently learning ... GraphQL
 - 💞️ I’m looking to collaborate on ... Open Source projects
 
 <!---
